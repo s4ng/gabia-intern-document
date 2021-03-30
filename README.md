@@ -48,7 +48,14 @@
 - [3월 18일 발표자료](presentation/0318발표.md)
 
 ### 이슈
+<<<<<<< HEAD
 - [API 개발 단계에서 dto 구현](issue/API개발단계에서dto구현.md)
 - [JPA 상속 후 Spring Data JPA 메서드](issue/JPA상속후SpringDataJPA메서드.md)
 - [Spring 배포 환경 JDBC MySQL 설정 오류 해결](issue/Spring배포환경JDBCMySQL설정오류해결.md)
 - [Swagger, Jacoco 추가 및 사용법](issue/Swagger,Jacoco추가및사용법.md)
+=======
+- [API 개발 단계에서 dto 구현](issue\API개발단계에서dto구현.md)
+- [JPA 상속 후 Spring Data JPA 메서드](issue\JPA상속후SpringDataJPA메서드.md)
+- [Spring 배포 환경 JDBC MySQL 설정 오류 해결](issue\Spring배포환경JDBCMySQL설정오류해결.md)
+- [Swagger, Jacoco 추가 및 사용법](issue\Swagger,Jacoco추가및사용법.md)
+>>>>>>> ef38bf31d1c87584c60457baa108357dbedaf0be
