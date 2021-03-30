@@ -2,7 +2,7 @@
 
 ### 설계
 
-- [기능 구현 순서](./architecture\기능구현순서.md)
+- [기능 구현 순서](architecture/기능구현순서.md)
 - [백엔드 설계](architecture\백엔드설계.md)
 - [와이어프레임](architecture\와이어프레임.png)
 - [프론트엔드 설계](architecture\프론트엔드설계.md)
