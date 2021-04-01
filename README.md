@@ -1,5 +1,9 @@
 # 가비아 인턴쉽 프로젝트 G-market 문서
 
+## [프론트엔드 Repository](https://github.com/s4ng/gabia-intern-front)
+
+## [백엔드 Repository](https://github.com/s4ng/gabia-intern-back)
+
 ### 설계
 
 - [기능 구현 순서](architecture/기능구현순서.md)
