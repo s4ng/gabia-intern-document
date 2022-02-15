@@ -4,6 +4,8 @@
 
 ## [백엔드 Repository](https://github.com/s4ng/gabia-intern-back)
 
+## [CICD Repository](https://github.com/s4ng/gitlab-cicd-tutorial)
+
 ### 설계
 
 - [기능 구현 순서](architecture/기능구현순서.md)
